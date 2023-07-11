@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**JimmyChenSSW/JimmyChenSSW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on ...SSW Accounting
 - 🌱 I’m currently learning ...CPA Program
 - 💬 Ask me about ...Accounting, Xero and how to apply the latest technology to them
